@@ -6,6 +6,6 @@
 
 
 # WARNING ⚠️
-**If you are going to change anything, makes sure that matches in every file (script.js, styles.css), because it can give you errors.**
+**If you are going to change anything, makes sure that matches in every file *(script.js, styles.css)*, because it can give you errors.**
 
 @ikerlunaas 12/4/24
